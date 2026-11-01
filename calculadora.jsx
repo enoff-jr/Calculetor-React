@@ -1,6 +1,6 @@
 import { useEffect, useRef, useState } from "react";
 import Input from "./input.jsx";
-import "./calculadora.css";
+import "calculadora.css";
 
 const MENSAJE_ERROR = "Error de sintaxis";
 
